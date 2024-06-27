@@ -1,1 +1,1 @@
-# ReactDesignPatterns
+# ReactDesigningPatterns
